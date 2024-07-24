@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a96ce23.css",
-    "main.js": "/static/js/main.9a0f0945.js",
-    "static/js/453.bdade9d5.chunk.js": "/static/js/453.bdade9d5.chunk.js",
-    "static/media/homepageImage.png": "/static/media/homepageImage.1348898290eba0d4ccd8.png",
-    "index.html": "/index.html",
-    "main.7a96ce23.css.map": "/static/css/main.7a96ce23.css.map",
-    "main.9a0f0945.js.map": "/static/js/main.9a0f0945.js.map",
-    "453.bdade9d5.chunk.js.map": "/static/js/453.bdade9d5.chunk.js.map"
+    "main.css": "/learning-vista-frontend/static/css/main.7a96ce23.css",
+    "main.js": "/learning-vista-frontend/static/js/main.a02584bd.js",
+    "static/js/453.bdade9d5.chunk.js": "/learning-vista-frontend/static/js/453.bdade9d5.chunk.js",
+    "static/media/homepageImage.png": "/learning-vista-frontend/static/media/homepageImage.1348898290eba0d4ccd8.png",
+    "index.html": "/learning-vista-frontend/index.html",
+    "main.7a96ce23.css.map": "/learning-vista-frontend/static/css/main.7a96ce23.css.map",
+    "main.a02584bd.js.map": "/learning-vista-frontend/static/js/main.a02584bd.js.map",
+    "453.bdade9d5.chunk.js.map": "/learning-vista-frontend/static/js/453.bdade9d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a96ce23.css",
-    "static/js/main.9a0f0945.js"
+    "static/js/main.a02584bd.js"
   ]
 }
