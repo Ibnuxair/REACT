@@ -1,0 +1,15 @@
+.main-content {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .overlay-text {
+    padding: 20px;
+  }
+  
+  .img-fluid {
+    height: 80vh;
+    object-fit: cover;
+  }
+  
